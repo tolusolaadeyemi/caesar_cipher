@@ -1,0 +1,14 @@
+{
+  "name": "caesar_cipher",
+  "version": "1.0.0",
+  "description": "caesar cipher for encryption and decryption",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "tolu sola-adeyemi",
+  "license": "ISC"
+}
